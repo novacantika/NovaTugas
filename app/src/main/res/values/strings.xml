@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NovaTugas</string>
+    <string name="baju_pria_muslim">Baju Pria Muslim</string>
+    <string name="baju_wanita_muslimah">Baju Wanita Muslimah</string>
+    <string name="content_text2"> MS GAMIS BATIK FASHION SRIWEDARI MAXI BUMIL/BUSUI BUSANA MUSLIM TERMURAH </string>
+    <string name="content_text"> Baju Koko Pria Dewasa Baju Muslim Pria Kurta Lengan Pendek Material Catton Adem Serap Keringat </string>
+    <string name="dummy_photos">5 photos</string>
+    <string name="dummy_value">Rp.156000</string>
+    <string name="my_name">Nova Cantika Fitri</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="buy">Beli</string>
+
+    <string name="warna">Warna:</string>
+    <string name="content_space_warna">
+        abu-abu\n kuning\n merah\n biru\n hitam
+    </string>
+    <string name="ukuran">Ukuran:</string>
+    <string name="content_space_ukuran">
+    standar\n jumbo
+    </string>
+    <string name="stock">Kuantitas</string>
+    <string name="content_space_stock">10</string>
+
+
+</resources>
